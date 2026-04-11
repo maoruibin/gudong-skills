@@ -1,5 +1,5 @@
 ---
-name: screenshot-beautifier
+name: gudong-beautify-shot
 description: 给截图添加渐变背景和圆角，让分享更美观。当用户发送图片并说"美化"、"美化一下"、"加个背景"时触发。
 ---
 
